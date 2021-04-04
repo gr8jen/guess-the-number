@@ -12,7 +12,7 @@ Open a terminal, go to the root of this project and type:
 composer install
 ```
 
-Generate a random string of 32 characters, at for eample: http://www.unit-conversion.info/texttools/random-string-generator/
+Generate a random string of 32 characters, at for example: http://www.unit-conversion.info/texttools/random-string-generator/
  and put it in `.env` after:
 ```
 APP_KEY=
